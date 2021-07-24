@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shrinivas-s
-- 👀 I’m interested in blockchain and crypto
-- 🌱 I’m currently learning Ethereum,Solidity,web3 & the related stack
+- 🛠️ Building @crycto
 - 📫 You can reach me @ linkedin.com/in/0xshri/
 
 <!---
