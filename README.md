@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shrinivas-s
+- 👋 Hi peeps
 - 🛠️ Building crycto.io
 - 📫 You can reach me @ linkedin.com/in/0xshri/
 
