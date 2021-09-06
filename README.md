@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shrinivas-s
-- 🛠️ Building @crycto
+- 🛠️ Building crycto.io
 - 📫 You can reach me @ linkedin.com/in/0xshri/
 
 <!---
